@@ -1,34 +1,34 @@
 const questions = [
     {
-        question: "What is the capital of France?",
-        options: ["Berlin", "Paris", "Madrid", "Rome"],
-        answer: "Paris"
+        question: "The Bohr Theory arranged elements in",
+        options: ["spdf notation", "increasing atomic number", "Circular orbits", "KLMN shells"],
+        answer: "Circular orbits"
     },
   {
-    question: "Who is the Founder of Edu-Champs ?",
-        options: ["Codex", "Nelson Ejumedia", "GTDMEGA", "Gabriel"],
-        answer: "Nelson Ejumedia"
+    question: "One of these is not correct in Bohr theory",
+        options: ["The orbits have definite radius from the nucleus", "The orbits are associated with electrons of definite energy", "L has greater energy than N", "K has lesser energy than M"],
+        answer: "L has greater energy than N"
 
   },
 
   {
-    question: "What year was Edu-Champs founded",
-        options: ["2020", "2021", "2022", "2023"],
-        answer: "2022"
+    question: "When an electron leaves its excited state,energy is radiated in form of what? ",
+        options: ["Light of definite colours", "Wavelength", "Light of indefinite colours", "Options A and B are correct"],
+        answer: "Options A and B are correct"
 
 },
 
 {
-    question: "Which Aspect of web development communicate with the server ",
-        options: ["Frontend", "Backend", "HTML", "Python"],
-        answer: "Backend"
+    question: "Parameters involved in the calculation of energy for difference includes all but one",
+        options: ["Plank's constant", "Velocity of light", "Time", "Wavelength"],
+        answer: "Time"
 
 },
 
   {
-    question: "Which parts make up a newly born child in terms of software development ",
-        options: ["HTML, CSS and JavaScript", "HTML and CSS", "Python and Nodejs", "PHP, CSS and JavaScript"],
-        answer: "HTML, CSS and JavaScript"
+    question: "If it is assumed that electrons moved from N shell to the L shell in all the atoms of a hypothetical element. Calculate the quantum of energy released per mole at the wavelength of 10-²cm",
+        options: ["1.989 × 10-²³", "100", "1.989 × 10-²⁷", "10-²"],
+        answer: "1.989 × 10-²³"
 
 },
   
